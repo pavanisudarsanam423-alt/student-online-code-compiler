@@ -1,0 +1,6 @@
+{
+  "name": "Student Online Code Compiler",
+  "description": "An interactive, student-friendly online compiler and runner for C, C++, Java, Python, and JavaScript with separate compile and run phases, real-time error diagnostics, and standard input support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
